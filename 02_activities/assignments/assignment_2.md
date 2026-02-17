@@ -10,25 +10,21 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
-
-
-
-
-
-
-
+      Good data visualization
+      US Eviction Rate Across 34 Cities: https://public.tableau.com/app/profile/maureen.okonkwo/viz/USEvictionRateAcross34Cities/Dashboard1
+      I think this dashboard and its visuals are strong. The title EVICTION RATE IN THE U.S. and subtitle Filings Across 10 States and 34 Cities clearly state the topic and scope.The map shows eviction filings by state with color shading and red circles for volume which is intuitive for location-based data. Small line charts by each city and the timeline at the bottom provide useful temporal context. Key metrics like “59,838 Filed Evictions in August 2023” and “1,261,317 Evictions in the last 12 months” are prominent in large fonts that give instant insight. Finally, the explanatory text on the right (including COVID-19 impacts) helps viewers understand the trends.
+      
+      Bad data visualization  
+      EG Map Visualization : https://public.tableau.com/app/profile/shivneel.prasad/viz/EGMapVisualization/Map?utm_source=chatgpt.com
+      I think this dashboard with map visualization is bad because it doesn’t include a proper title, data context, or labels that explain what the viewer should interpret. The title is “EG Map Visualization” but I don’t know what the abbreviation EG means. Second, the map only shows geographic markers and lacks color, size, or gradient encodings tied to a quantitative attribute, therefore I can’t tell which places stand out or why.
+      
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      To enhance the “US Eviction Rate Across 34 Cities” dashboard, the list of 34 cities with mini line charts could be grouped by state to reduce density and help users focus. Also, the legend for "Filings," currently at the top right, feels disconnected, it would be better to place it closer to the map.
 
+      To enhance “EG Map Visualization” dashboard, the visualization should include a clear, descriptive title and subtitle that explain the main insight, along with proper legends, labels, and data source information to provide context. It should also use more effective visual encoding, such as different colors or sizes to show differences clearly and reduce clutter so patterns are easier to see.
 
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
