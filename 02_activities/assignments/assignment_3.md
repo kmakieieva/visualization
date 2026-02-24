@@ -7,23 +7,23 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+    > What software did you use to create your data visualization? I used Python (Plotly Graph Objects) to create the scatter plot and Excel to create the horizontal bar chart.
 
-    > Who is your intended audience? 
+    > Who is your intended audience? Municipal decision-makers and library administrators
     
-    > What information or message are you trying to convey with your visualization? 
+    > What information or message are you trying to convey with your visualization? I created a bar chart to show which libraries generate the highest total annual revenue and a scatter plot to explore whether operating expenditures increase proportionally with population size.
     
-    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? I focused on keeping charts clear and readable. For example, I used horizontal bars in Excel so long names would fit, and black markers in the scatter plot for good contrast. I included straightforward titles and labels, and chose an appropriate size so it’s easy to see all details.
     
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? The scatter plot is reproducible since it’s built with code, so anyone with the data and script can recreate it. The Excel chart is less reproducible due to manual steps, but it was faster to make. In the future, I could redo the bar chart using Python to make it fully reproducible.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible? I used high contrast colors and avoided relying on color differences alone. The charts have clear labels and readable fonts to make them easy to follow.  
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
+    > Who are the individuals and communities who might be impacted by your visualization? My visualizations could affect local residents, library workers, and officials by showing how money is distributed across libraries, which might impact funding decisions or community discussions.
     
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization? I included population served, total expenditures, and revenue since they directly relate to funding and size. Other available data in the dataset could have further enriched the analysis, but I was limited by the task, which required creating only two visualizations.
     
-    > What ‘underwater labour’ contributed to your final data visualization product?
+    > What ‘underwater labour’ contributed to your final data visualization product? I cleaned the data and adjusted the charts to ensure the visuals are accurate and easy to understand.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
